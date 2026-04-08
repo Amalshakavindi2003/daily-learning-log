@@ -1,2 +1,5 @@
-# daily-learning-log
-My daily learning and coding practice
+# Daily Learning Log
+
+## Day 1
+- Learned Git basics
+- Created my first repo
